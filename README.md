@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @infraelecgit
+- 👋 Hi, I’m Infra GIT <@infraelecgit>
 - 👀 I’m interested in Docker, K8s, Rancher...
 
 <!---
